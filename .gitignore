@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.env
+k8s/k8s-secrets.env
+
+# Local configuration
+application-local.yaml
+
+# IntelliJ
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Build
+target/

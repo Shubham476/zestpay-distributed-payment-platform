@@ -1,0 +1,6 @@
+com.codingshuttle.razorpay.common_lib.util.SharedSecurityAutoConfiguration
+com.codingshuttle.razorpay.common_lib.config.SharedKafkaAutoConfiguration
+com.codingshuttle.razorpay.common_lib.web.SharedWebFilterAutoConfiguration
+com.codingshuttle.razorpay.common_lib.idempotency.SharedResilienceAutoConfiguration
+com.codingshuttle.razorpay.common_lib.audit.SharedAuditAutoConfiguration
+com.codingshuttle.razorpay.common_lib.exception.SharedExceptionAutoConfiguration
